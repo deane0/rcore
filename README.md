@@ -1,1 +1,1 @@
-# rcore
+# rCore
